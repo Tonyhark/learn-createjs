@@ -1,1 +1,1 @@
-#学习createjs游戏框架#
+# 学习createjs游戏框架 #
