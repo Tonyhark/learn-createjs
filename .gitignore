@@ -1,0 +1,12 @@
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.zip
+*.rar
+.idea/  
+dist/  
+node_modules/
+img/images/
