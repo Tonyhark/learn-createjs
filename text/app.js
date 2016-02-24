@@ -34,4 +34,6 @@ function handleTick (e) {
     rect.rotation = text.rotation;
     rect.graphics.clear().beginFill('#f00').drawRect(-10,-10,text.getMeasuredWidth()+20, text.getMeasuredLineHeight()+20);
     stage.update(e);
+
+
 }
