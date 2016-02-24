@@ -26,6 +26,7 @@ stage.addChildAt(rect, 0);
 createjs.Ticker.setFPS(60);
 createjs.Ticker.addEventListener('tick', handleTick);
 
+
 function handleTick (e) {
     count++;
     text.text = 'text on the canvas...' + count + '!';
